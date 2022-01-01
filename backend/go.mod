@@ -1,4 +1,4 @@
-module github.com/naza020/ChatApp
+module github.com/naza020/ChatApp/backend
 
 go 1.17
 
